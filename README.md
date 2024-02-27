@@ -1,7 +1,7 @@
 <h2> Hi, it's Omar T. !  <img src="https://media2.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=ecf05e477l3znv1tnc4bmatvktcms0hgsnp5zt9dh3x6w23h&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" style="margin: -30 0px -10 0px"></h2>
 
 <img align='right' src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e4757ttx1gw2q630nrta0baimlxk4x2fgnlp53jxno4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
-<p>- Software Enginner student at <em>Universitat Politècnica de Catalunya (UPC) </em> 🤓📚</br>- Full Stack Intern at <a href="https://amphoralogistics.com/">Amphora Logistics </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 
+<p>- Full Stack Developer at <a href="https://amphoralogistics.com/">Amphora Logistics </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> </br>- Studied Software Engineering at <em>Universitat Politècnica de Catalunya (UPC) </em> 🤓📚
 </em></p>
 
 
@@ -29,6 +29,6 @@
 ![Rails](https://img.shields.io/badge/Rails-000?&logo=ruby-on-rails&logoColor=white)
 
 ### About Me
-Studying a degree in Computer Science at the Polytechnic University of Catalonia (UPC) specialized in Software Development.<br>
+Graduated in a degree in Computer Science at the Polytechnic University of Catalonia (UPC) specialized in Software Development.<br>
 Resourceful, dedicated and hardworking, self-motivated and committed to strive for efficient and high-quality work. I have strong interpersonal communication skills, allowing me to collaborate effectively in team environments, leveraging the diversity of ideas and perspectives. I am always open to learning and embracing new challenges, continuously seeking to expand my knowledge and skills in the technology field.<br>
 My goal is to become a highly competent professional and make significant contributions to the development of innovative solutions in the field of computer science.
