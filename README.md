@@ -1,7 +1,7 @@
 <h2> Hi, it's Omar T. !  <img src="https://media2.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=ecf05e477l3znv1tnc4bmatvktcms0hgsnp5zt9dh3x6w23h&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" style="margin: -30 0px -10 0px"></h2>
 
 <img align='right' src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e4757ttx1gw2q630nrta0baimlxk4x2fgnlp53jxno4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
-<p>- Full Stack Developer at <a href="https://amphoralogistics.com/">Amphora Logistics </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> </br>- Studied Software Engineering at <em>Universitat Politècnica de Catalunya (UPC) </em> 🤓📚
+<p>- Full Stack Developer at <a href="https://glovoapp.com/en/">Glovo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> </br>- Studied Software Engineering at <em>Universitat Politècnica de Catalunya (UPC) </em> 🤓📚
 </em></p>
 
 
